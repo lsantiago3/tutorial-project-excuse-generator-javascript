@@ -8,7 +8,7 @@ This project is ideal for avoiding someone annoying; it takes no more than 20 li
 
 ## The Goal:
 
-We wanted a project that used very little JavaScript but still had a very fun application. The excuse generator takes 20 lines of code, is super simple to understand, and is the perfect first project for any beginner developer.
+We wanted to create a project that uses very little JavaScript but is still fun to build and use. The excuse generator is perfect—it only takes about 20 lines of code, is easy to understand, and makes a great first project for beginner developers.
 
 ## 📝 Instructions:
 
